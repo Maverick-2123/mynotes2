@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "143688932069",
+    "project_id": "flutter-project-89bd6",
+    "storage_bucket": "flutter-project-89bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143688932069:android:be8adb9cef821dee3a920c",
+        "android_client_info": {
+          "package_name": "com.example.mynotes2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143688932069-btj66fs2m53bimmgij84g71bhvcae64l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFc45HBpROc76hX0tMdCWfS9zQa4JnleE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143688932069-btj66fs2m53bimmgij84g71bhvcae64l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143688932069-0i74htfgetrcpvp0c0f3o6mrqbgdgq7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myprojects.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143688932069:android:c1760011ea87a02d3a920c",
+        "android_client_info": {
+          "package_name": "com.myprojects.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143688932069-btj66fs2m53bimmgij84g71bhvcae64l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFc45HBpROc76hX0tMdCWfS9zQa4JnleE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143688932069-btj66fs2m53bimmgij84g71bhvcae64l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143688932069-0i74htfgetrcpvp0c0f3o6mrqbgdgq7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myprojects.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
